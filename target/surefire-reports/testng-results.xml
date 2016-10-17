@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="137" started-at="2016-10-17T15:39:28Z" finished-at="2016-10-17T15:39:28Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="137" started-at="2016-10-17T15:39:28Z" finished-at="2016-10-17T15:39:28Z">
+      <class name="TestCalculator">
+        <test-method status="PASS" signature="testAdd()[pri:0, instance:testAdd(TestCalculator)]" name="testAdd" duration-ms="12" started-at="2016-10-17T17:39:28Z" finished-at="2016-10-17T17:39:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAdd -->
+        <test-method status="PASS" signature="testSubtract()[pri:0, instance:testSubtract(TestCalculator)]" name="testSubtract" duration-ms="0" started-at="2016-10-17T17:39:28Z" finished-at="2016-10-17T17:39:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSubtract -->
+        <test-method status="PASS" signature="testDivisionByZero()[pri:0, instance:testDivisionByZero(TestCalculator)]" name="testDivisionByZero" duration-ms="0" started-at="2016-10-17T17:39:28Z" finished-at="2016-10-17T17:39:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDivisionByZero -->
+        <test-method status="PASS" signature="testDivide()[pri:0, instance:testDivide(TestCalculator)]" name="testDivide" duration-ms="0" started-at="2016-10-17T17:39:28Z" finished-at="2016-10-17T17:39:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDivide -->
+        <test-method status="PASS" signature="testMultiply()[pri:0, instance:testMultiply(TestCalculator)]" name="testMultiply" duration-ms="0" started-at="2016-10-17T17:39:28Z" finished-at="2016-10-17T17:39:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMultiply -->
+      </class> <!-- TestCalculator -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
